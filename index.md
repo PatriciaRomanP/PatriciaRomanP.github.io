@@ -1,3 +1,4 @@
-# Bienvenida a mi blog
 
-Me alegro de que estés aquí. Pienso hablar sobre todo tipo de temas
+
+Me alegro de que estés aquí. Pienso hablar sobre todo tipo de temas. 
+Yo soy 
