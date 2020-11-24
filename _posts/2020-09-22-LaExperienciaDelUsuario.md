@@ -24,6 +24,7 @@ date: 2020-09-22
           * Inspección
           * Test
 
+
 2. **Limitaciones del enfoque 'tradicional'**
     Comportamiento emocional del usuario: 
      * **Emociones**
