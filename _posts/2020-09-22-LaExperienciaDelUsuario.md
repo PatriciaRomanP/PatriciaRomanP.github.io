@@ -41,7 +41,6 @@ date: 2020-09-22
     * **Objetivo**:  intenta resolver el problema estratégico de la utilidad del producto y el problema psicológico del placer y diversión de su uso.
 
 
-
 4. **Factores que componen la Experiencia del Usuario**
     * Clasifican los diferentes **factores** en cinco grupos diferenciados: 
         * Factores propios del usuario
@@ -49,7 +48,7 @@ date: 2020-09-22
         * Culturales
         * contexto de uso 
         * Factores propios del producto 
-        
+
     
     La Experiencia del Usuario es base a **siete propiedades** que debe **cumplir** un sitio web: **Útil, Usable,Deseable,Encontrable, Accesible, Creíble y Valioso**.
 
