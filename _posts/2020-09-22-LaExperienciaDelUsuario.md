@@ -37,6 +37,7 @@ Date: 2020-09-22
     * Culturales
     * contexto de uso 
     * Factores propios del producto 
+    
 * La Experiencia del Usuario es base a **siete propiedades** que debe **cumplir** un sitio web: **Útil, Usable,Deseable,Encontrable, Accesible, Creíble y Valioso**.
 
 
