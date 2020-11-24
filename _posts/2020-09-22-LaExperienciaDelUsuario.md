@@ -6,7 +6,9 @@ date: 2020-09-22
 1. **HCI** (Interacción Persona-Ordenador) **y Usabilidad**
 **El HCI** : Área de estudio centrada en el fenómeno de interacción entre usuarios y sistemas informáticos. 
 * **Objetivo**: Proporcionar bases teóricas, metodológicas y prácticas para el diseño y evaluación de productos interactivos. 
+
 Interdisciplinar en su práctica, multidisciplinar en su origen.
+
 * **Disciplinas**: Psicología cognitiva y de la conducta, ergonomía, antropología, sociología y ciencias de la computación entre otras.
 * **La Usabilidad**:  un concepto central e inherente a la HCI.
     * **Eficacia, eficiencia y satisfacción** de los usuarios para lograr objetivos específicos
