@@ -1,7 +1,8 @@
 --- 
-title: "Experiencia del Usuario" Hassan Martín
+title: '"Experiencia del Usuario" Hassan Martín'
 date: 2020-09-22
 ---
+
 1. **HCI** (Interacción Persona-Ordenador) **y Usabilidad**
 * **El HCI** : Área de estudio centrada en el fenómeno de interacción entre usuarios y sistemas informáticos. 
     * **Objetivo**: Proporcionar bases teóricas, metodológicas y prácticas para el diseño y evaluación de productos interactivos. 
