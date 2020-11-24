@@ -30,6 +30,9 @@ Date: 2020-09-22
 * La Experiencia del Usuario representa un cambio emergente del propio concepto de usabilidad
 * **Objetivo**:  intenta resolver el problema estratégico de la utilidad del producto y el problema psicológico del placer y diversión de su uso.
 
+4. **Factores que componen la Experiencia del Usuario**
+
+
 
 
 
