@@ -15,5 +15,12 @@ Permite recoger toda la información relevante sobre un tema en un solo lugar p
         2. Una vez en el mercado.
     * Poner **en el centro el problema** que hay que resolver (en lugar de una solución a implementar) y define los aspectos necesarios para **construir, medir y aprender**.
 
+**¿Cuándo?**
+Ayuda a **organizar las primeras etapas** de los proyectos UX. El equipo tendrá muy claro **el problema** que hay que **resolver**.
+> Conveniente usar la herramienta al inicio de un proyecto  
 
+**¿Cómo?**
+Todas **las secciones** del Lean UX Canvas se ponen en **una sola hoja** y todas las diferentes secciones están **conectadas**.
+
+![Imagen de tabla canva] (https://github.com/PatriciaRomanP/PatriciaRomanP.github.io/blob/master/_posts/LeanUX_canvas_v5.png)
 
