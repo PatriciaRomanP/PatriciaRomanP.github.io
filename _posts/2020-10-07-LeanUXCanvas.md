@@ -38,9 +38,9 @@ Todas **las secciones** del Lean UX Canvas se ponen en **una sola hoja** y todas
 
 Ventajas   |   Desventajas  
 --------   |   -----------
-Sistemas existentes y también para nuevos productos y empresas   |   Este cambio requiere equipos autónomos que puedan centrarse y sean evaluados por los aprendizajes realizados y no por las funcionalidades desarrolladas
-Nos ayudan a definir la solución adecuada de manera iterativa   |   Es fácil que se hagan pequeños ajustes sin incorporar todos los cambios necesarios para que realmente esta aproximación tenga un impacto positivo
-Construye una visión compartida por todo el equipo   |   Este cambio de paradigma incluye la definición y validación de hipótesis, proceso que es complejo y requiere un aprendizaje previo
+Sistemas existentes y también para nuevos productos y empresas   |   Este cambio requiere equipos autónomos que puedan centrarse y sean evaluados por los aprendizajes realizados y no por las funcionalidades desarrolladas
+Nos ayudan a definir la solución adecuada de manera iterativa   |   Es fácil que se hagan pequeños ajustes sin incorporar todos los cambios necesarios para que realmente esta aproximación tenga un impacto positivo
+Construye una visión compartida por todo el equipo   |   Este cambio de paradigma incluye la definición y validación de hipótesis, proceso que es complejo y requiere un aprendizaje previo
 
 
 
