@@ -22,5 +22,20 @@ Ayuda a **organizar las primeras etapas** de los proyectos UX. El equipo tendra�
 **¿Cómo?**
 Todas **las secciones** del Lean UX Canvas se ponen en **una sola hoja** y todas las diferentes secciones están **conectadas**.
 
-![tabla de canva](https://github.com/PatriciaRomanP/PatriciaRomanP.github.io/blob/master/_posts/LeanUX_canvas_v5.png)
+![tabla de canva](https://github.com/PatriciaRomanP/PatriciaRomanP.github.io/blob/master/_posts/LeanUX_canvas_v5.png) 
+
+* **En la casilla del problema (1)**, se crea una declaración del problema
+* **En la casilla de resultados (2)**, cuáles son los cambios que habrá que ver en el comportamiento de los clientes y la solución añade valor a los usuarios finales
+* **Usuarios (3)**, los principales usuarios y clientes con los que se tiene que trabajar
+* **Los beneficios de los usuarios (4)**, se tienen que añadir los objetivos que los usuarios intentan conseguir y lo que les motiva a utilizar una solución
+* **Ideas de soluciones (5)**, lista de ideas de productos, funciones o mejoras que ayudan a la audiencia objetivo a conseguir los beneficios que buscan
+* **Hipótesis (6)**, se combinarán las suposiciones de las casillas 2, 3, 4 y 5 para crear una frase o declaración
+    * *Suposiciones básicas*: las que tienen que ser verdaderas para que la solución resuelva el problema 
+    * *Suposiciones desconocidas*: no tiene claro que permitan obtener información rápida sobre posibles riesgos
+    * *Suposiciones con riesgo*: si se demuestran falsas, harían que el proyecto fallara
+* **«Qué es la primera cosa importante que tenemos que aprender» (7)** se identificará, para cada hipótesis, la suposición con más riesgo y se sabrá que será la suposición que hará que toda la idea falle si es incorrecta
+* **«cuál es el mínimo trabajo que tenemos que hacer para aprender la siguiente cosa más importante» (8)**, una lluvia de ideas de tipos de experiencias que se pueden hacer para saber si la suposición con más riesgo es verdadera o falsa
+
+
+
 
