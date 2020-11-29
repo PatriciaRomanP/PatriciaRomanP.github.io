@@ -36,8 +36,8 @@ Las respuestas a todas esas preguntas son indispensables para crear un producto 
 Diferentes tipos de investigación de usuarios enfocadas a diseño, basándonos en un artículo de *Tif Wang para UX Planet*:
   * **Primaria**: La que se hace para entender los entresijos de un proyecto, **conocer a los usuarios y stakeholders**, las necesidades y expectativas de ambos par así: hacernos una idea del alcance del proyecto.
   > Base sobre la que construimos los proyectos y muchas veces depende de ella la calidad de la solución de diseño final
-  
   > Qué se quiere investigar antes de salir a buscar a las personas para investigar
+
   * **Secundaria**: se lleva a cabo mediante el uso de fuentes como libros, estudios… , con ellos se consigue conformar una **propuesta de solución**. 
   > Hacer investigación secundaria sin tener datos reales es muy poco recomendable dadas las consecuencias que ello puede tener en el producto digital final y la consiguiente pérdida de dinero y tiempo que puede acarrear.
   * **Evaluativa**: Sirve para **acercarse a los problemas**, necesidades y deseos de los usuarios reales o posibles usuarios del producto digital. 
