@@ -9,8 +9,7 @@ date: 2020-10-13
 Una buena investigación para hacer un buen trabajo de experiencia de usuario. 
 
 Si conocemos al usuario, sus necesidades y expectativas, podremos elaborar un mejor producto o servicio digital. 
-> Análisis de lo que demandan los usuarios
-> De que manera podemos satisfacerles
+> Análisis de lo que demandan los usuarios. De que manera podemos satisfacerles.
 
 Debemos trabajar con una metodología que incorpore la **investigación** de forma **central** 
   * Los diseñadores pueden trazar **soluciones más eficaces**
