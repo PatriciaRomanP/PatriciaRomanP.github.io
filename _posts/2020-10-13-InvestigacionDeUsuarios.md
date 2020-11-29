@@ -48,7 +48,7 @@ Diferentes tipos de investigación de usuarios enfocadas a diseño, basándonos 
   * **Exploratoria**: aquella investigación que se desarrolla para **investigar algo sobre lo que poco o nada se conoce**.
   > Dirigir el rumbo de un producto que se dirige a un territorio poco explorado o inexplorado 
   * **Generativa** : Consiste en **elegir qué problemas vamos a resolver** y a cuáles vamos a dar soluciones a partir de los hallazgos de la investigación. Estas **soluciones son nuevas para problemas ya existentes**.
-  
+
 
   
 
