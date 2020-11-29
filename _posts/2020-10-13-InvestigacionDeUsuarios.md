@@ -14,3 +14,9 @@ Si conocemos al usuario, sus necesidades y expectativas, podremos elaborar un me
 Debemos trabajar con una metodología que incorpore la **investigación** de forma **central** 
   * Los diseñadores pueden trazar **soluciones más eficaces**
 
+**Investigación de usuarios como un proceso de aprendizaje**
+  * **Frog Design** 
+    *   Aplican una metodología de guerrilla que **simplifica** mucho el proceso y lo **hace independiente** de la herramienta que usemos.
+        * Nos ofrece una mirada en **articular y definir** el **área de enfoque** y el **alcance de la propia investigación**, a medida que vamos aprendiendo.
+
+Por eso lo denominan “Espiral de aprendizaje de la investigación” (Research Learning Spiral, en inglés), y lo dividen en cinco pasos: 
