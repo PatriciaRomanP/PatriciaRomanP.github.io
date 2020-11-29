@@ -37,10 +37,9 @@ Baja fidelidad:
 
 Baja Fidelidad   |   Alta Fidelidad  
 --------------   |   --------------
-Un dibujo en **bruto** | **Documentar**: un nivel de detalle que se acerca más al diseño final de una página web
-Tienen **menos detalles** y son r**ápidos de producir** | **Toma más tiempo** para ser creado
-Ayudan a un equipo de proyecto a **colaborar más efectivamente** | **Representar** *wireframes* con ***software* de computador**  es popular. Algunas herramientas permiten incorporar interactividad, incluyendo animación en Flash, y tecnologías de presentación web como HTML, CSS, y JavaScript.
-Prototipos en papel es una técnica común 
+Un dibujo en **bruto**  |   **Documentar**: un nivel de detalle que se acerca más al diseño final de una página web
+Tienen **menos detalles** y son r**ápidos de producir**  |  **Toma más tiempo** para ser creado
+Ayudan a un equipo de proyecto a **colaborar más efectivamente**  |  **Representar** *wireframes* con ***software* de computador**  es popular. Algunas herramientas permiten incorporar interactividad, incluyendo animación en Flash, y tecnologías de presentación web como HTML, CSS, y JavaScript.
 
 **Elementos de un *Wireframe***
 
