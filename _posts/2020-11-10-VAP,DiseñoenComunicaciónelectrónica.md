@@ -16,7 +16,7 @@ La **primera lectura** suele ser **superficial**. No se trata de analizar en pro
 
 Espacios en blanco  |   Márgenes  |  Alineación
 ------------------  |   --------  |  ----------
-Destacar elementos y asociar componentes análogos  |  Opciones para el contraste visual  |  alineados a la izquierda, centrados, alineados a la derecha o justificados
+Destacar elementos y asociar componentes análogos  |  Opciones para el contraste visual  |  Alineados a la izquierda, centrados, alineados a la derecha o justificados
 Dejar “respirar” el contenido con espacios en blanco  |  Modo sistemático en todo el sitio web: unidad  |  Alinear todos los contenidos a la izquierda
 El espacio vacío nos ayuda a jerarquizar los textos y a estructurarlos correctamente  |  Definen la zona de lectura  |   Todas las líneas de un párrafo comienzan en el mismo punto
 
