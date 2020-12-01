@@ -25,11 +25,13 @@ El espacio vacío nos ayuda a jerarquizar los textos y a estructurarlos correct
 Dos categorías principales: 
    * Con *Serif* 
    * Sin *Serif*
-**Se recomienda las fuentes SIN serif** en los textos para la pantalla, porque facilitan considerablemente la lectura.
-**El tamaño de fuente ha de satisfacer al lector**: la persona que accede debe leer la información con total facilidad. 
-   > **No debe exceder de 14 puntos ni ser menor de 10**.
 
-  * **Configuraciones relativa y absolutas**: Textos en los que el usuario puede **modificar el tamaño de la letra** para adecuarlo a sus hábitos de lectura.
+**Se recomienda las fuentes SIN serif** en los textos para la pantalla, porque facilitan considerablemente la lectura.
+
+**El tamaño de fuente ha de satisfacer al lector**: la persona que accede debe leer la información con total facilidad. 
+> **No debe exceder de 14 puntos ni ser menor de 10**.
+
+   * **Configuraciones relativa y absolutas**: Textos en los que el usuario puede **modificar el tamaño de la letra** para adecuarlo a sus hábitos de lectura.
     * Debemos **comunicar al usuario que dispone de esa opción** para modificar el tamaño del texto a través de su navegador.
 
 **Mayúsculas, subrayado, cursiva, negrita y color**
