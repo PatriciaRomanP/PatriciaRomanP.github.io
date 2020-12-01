@@ -27,5 +27,14 @@ Dos categorías principales:
    * Sin *Serif*
 **Se recomienda las fuentes SIN serif** en los textos para la pantalla, porque facilitan considerablemente la lectura.
 **El tamaño de fuente ha de satisfacer al lector**: la persona que accede debe leer la información con total facilidad. 
-   * **No debe exceder de 14 puntos ni ser menor de 10**.
+   > **No debe exceder de 14 puntos ni ser menor de 10**.
 
+  * **Configuraciones relativa y absolutas**: Textos en los que el usuario puede **modificar el tamaño de la letra** para adecuarlo a sus hábitos de lectura.
+    * Debemos **comunicar al usuario que dispone de esa opción** para modificar el tamaño del texto a través de su navegador.
+
+**Mayúsculas, subrayado, cursiva, negrita y color**
+
+Mayúsculas  |   Subrayado  |  Cursiva  |  Negrita  |  Color
+----------  |   ---------  |  -------  |  -------  |  -----
+No es conveniente publicar textos redactados íntegramente en letras mayúsculas  |  No es muy adecuado emplear el subrayado para destacar una parte de un texto  |  Resulta fatigoso tener que leer un texto escrito en cursiva  |  No conviene abusar de ella en fragmentos largos  |  Tener en cuenta que un mismo color puede tener más de un significado, en función de la cultura del lector
+Las mayúsculas para diseñar los títulos o enfatizar alguna palabra  |  Utilizar el subrayado únicamente para los enlaces  |  Evitar el uso de la cursiva para distinguirlos de los contenidos de texto  |   Destacar las palabras o frases que comunican lo más relevante del mensaje  |  No conviene utilizar el color como único indicador de una característica o función determinada
