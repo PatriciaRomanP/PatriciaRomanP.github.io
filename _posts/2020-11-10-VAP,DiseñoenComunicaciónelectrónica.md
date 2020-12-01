@@ -20,3 +20,12 @@ Destacar elementos y asociar componentes análogos  |  Opciones para el contras
 Dejar “respirar” el contenido con espacios en blanco  |  Modo sistemático en todo el sitio web: unidad  |  Alinear todos los contenidos a la izquierda
 El espacio vacío nos ayuda a jerarquizar los textos y a estructurarlos correctamente  |  Definen la zona de lectura  |   Todas las líneas de un párrafo comienzan en el mismo punto
 
+**Tipos y tamaños de fuente** 
+
+Dos categorías principales: 
+   * Con *Serif* 
+   * Sin *Serif*
+**Se recomienda las fuentes SIN serif** en los textos para la pantalla, porque facilitan considerablemente la lectura.
+**El tamaño de fuente ha de satisfacer al lector**: la persona que accede debe leer la información con total facilidad. 
+   * **No debe exceder de 14 puntos ni ser menor de 10**.
+
