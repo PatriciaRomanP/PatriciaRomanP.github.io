@@ -1,6 +1,6 @@
 ---
 title: "UOC, Métodos: Lean UX Canvas"
-date: 2020-10-07
+date: 2020-10-06
 ---
 
 **¿Qué es?**
