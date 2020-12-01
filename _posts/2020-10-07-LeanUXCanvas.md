@@ -22,7 +22,7 @@ Ayuda a **organizar las primeras etapas** de los proyectos UX. El equipo tendrá
 **¿Cómo?**
 Todas **las secciones** del Lean UX Canvas se ponen en **una sola hoja** y todas las diferentes secciones están **conectadas**.
 
-![canva](https://github.com/PatriciaRomanP/PatriciaRomanP.github.io/blob/master/_posts/LeanUX_canvas_v5.png) 
+![canva](/img/LeanUX_canvas_v5.png) 
 
 * **En la casilla del problema (1)**, se crea una declaración del problema
 * **En la casilla de resultados (2)**, cuáles son los cambios que habrá que ver en el comportamiento de los clientes y la solución añade valor a los usuarios finales
