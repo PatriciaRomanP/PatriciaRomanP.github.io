@@ -86,21 +86,21 @@ Una forma sencilla de **mejorar la legibilidad** de nuestros textos. Además, e
 
 Consejos para confeccionar listas adecuadas:
 
-a) Se debe hacer un **uso prudente de las listas**.
+   a) Se debe hacer un **uso prudente de las listas**.
 
-b) Conviene presentar cada lista por medio de una **frase clara y descriptiva**. 
+   b) Conviene presentar cada lista por medio de una **frase clara y descriptiva**. 
 
-c) Las **listas breves**, de unos 5-10 ítems.
+   c) Las **listas breves**, de unos 5-10 ítems.
 
-d) **Estructura paralela**; El usuario comprenderá mejor los contenidos.
+   d) **Estructura paralela**; El usuario comprenderá mejor los contenidos.
 
-e) **Adecuar el formato de las listas** para su correcto funcionamiento.
+   e) **Adecuar el formato de las listas** para su correcto funcionamiento.
 
-f) Escoge **viñetas que concuerden con el diseño** del sitio web. 
+   f) Escoge **viñetas que concuerden con el diseño** del sitio web. 
 
-g) **Numerar los ítems** de la lista ayuda al lector a seguir el orden de los pasos.
+   g) **Numerar los ítems** de la lista ayuda al lector a seguir el orden de los pasos.
 
-h) Si el orden de los ítems carece de importancia, utilizaremos viñetas en lugar de números.
+   h) Si el orden de los ítems carece de importancia, utilizaremos viñetas en lugar de números.
 
 **Tablas**
 
@@ -112,3 +112,45 @@ Las tablas resultan prácticas para:
 2. Evitar información y estructuras que se repiten en las frases.
 3. Responder a preguntas
 
+**Ilustraciones**
+
+Puede servir de **apoyo para explicar mejor el contenido** del texto, o incluso sustituirlo. Sin embargo, **en algunos casos**, las ilustraciones **no cumplen con este cometido** y sirven únicamente para decorar las páginas web, por eso:
+   * **¿Qué queremos lograr al insertar una ilustración**
+   * **¿Qué clase de ilustración es la más adecuada para conseguir nuestro objetivo?**
+
+Para un **uso correcto** de las ilustraciones:
+
+   * El lector debe percibir en un **primer vistazo** cuál es **el valor** de la ilustración y su significado.
+   * Tenemos que escoger un **tamaño adecuado**.
+   * Las ilustraciones **no deben ocultar información**
+   * Mostrar **diversidad*.
+   * El contenido **no debe parecer publicidad**, porque mucha gente la rechaza.
+   * Las ilustraciones utilizadas deben ser **accesibles**, para lo que las describiremos en la etiqueta correspondiente del editor de textos.
+   * Es importante emplear los **gráficos con moderación**.
+   * Trata de **evitar los textos móviles**.
+
+**Multimedia**
+
+Todo **sistema que integra diferentes recursos para transmitir información: texto, imagen, audio y vídeo, entre otros**. 
+
+Como criterio general, recomendamos **utilizar únicamente animaciones, vídeos o sonidos** que sean **significativos para dar a conocer el mensaje**.
+
+No conviene que los elementos multimedia formen parte del diseño básico de un sitio web. 
+
+También, debemos prestar atención al **formato del material multimedia** antes de instalarlo en nuestro sitio web. El ámbito multimedia se encuentra en constante renovación, por lo que debemos **ofrecer los *plug-in* o adaptadores precisos** para que los usuarios puedan **decodificar y acceder a los contenidos**.
+
+**Accesibilidad**
+
+**Facilitar el acceso al sitio web** y a los contenidos al **mayor número de personas posible**, sin tener en cuenta las limitaciones de cada una de ellas. Se trata de un aspecto del **diseño de páginas web** que debemos abordar si queremos que gran parte del contenido de nuestro sitio web no quede fuera del alcance de algunos usuarios.
+
+**Las personas que más se benefician** de la accesibilidad son aquellas que sufren **alguna discapacidad** (visual, auditiva, motriz...).
+
+La mejor manera de asegurarnos el mayor nivel de accesibilidad consiste en **ofrecer diversas versiones de contenido diseñadas específicamente para distintos niveles**.
+
+**Diseño de la página principal**
+
+El diseño es un **factor primordial a la hora de componer una página web**. Debemos aprovechar la página principal para dar a entender claramente cuáles son los **valores y objetivos que pueden encontrar los usuarios**. Por lo tanto, el portal debe **mostrar** todos los contenidos significativos del sitio web:**las opciones y los enlaces más importantes**.
+
+**La disposición** de los contenidos ha de ser **dinámica y sencilla**, pues el lector no desea perder el tiempo, por lo que conviene limitar la cantidad de contenido. Asimismo, resulta aconsejable vigilar la **longitud de la página principal** para que, en la medida de lo posible, **no sea mayor que el tamaño de una pantalla**. 
+
+Diseñar la página principal comporta cierta dificultad; **se trata de una labor que nunca tiene fin, ya que es necesario actualizar y adaptar los contenidos periódicamente**.
