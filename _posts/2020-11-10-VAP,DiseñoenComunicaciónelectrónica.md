@@ -85,14 +85,22 @@ Por un lado, el número y la densidad son dos aspectos clave:
 Una forma sencilla de **mejorar la legibilidad** de nuestros textos. Además, el lector **detecta fácilmente cuántos elementos componen una lista** y puede **encontrar un elemento concreto con mayor facilidad**. 
 
 Consejos para confeccionar listas adecuadas:
-    a) Se debe hacer un **uso prudente de las listas**.
-    b) Conviene presentar cada lista por medio de una **frase clara y descriptiva**. 
-    c) Las **listas breves**, de unos 5-10 ítems.
-    d) **Estructura paralela**; El usuario comprenderá mejor los contenidos.
-    e) **Adecuar el formato de las listas** para su correcto funcionamiento.
-    f) Escoge **viñetas que concuerden con el diseño** del sitio web. 
-    g) **Numerar los ítems** de la lista ayuda al lector a seguir el orden de los pasos.
-    h) Si el orden de los ítems carece de importancia, utilizaremos viñetas en lugar de números.
+
+a) Se debe hacer un **uso prudente de las listas**.
+
+b) Conviene presentar cada lista por medio de una **frase clara y descriptiva**. 
+
+c) Las **listas breves**, de unos 5-10 ítems.
+
+d) **Estructura paralela**; El usuario comprenderá mejor los contenidos.
+
+e) **Adecuar el formato de las listas** para su correcto funcionamiento.
+
+f) Escoge **viñetas que concuerden con el diseño** del sitio web. 
+
+g) **Numerar los ítems** de la lista ayuda al lector a seguir el orden de los pasos.
+
+h) Si el orden de los ítems carece de importancia, utilizaremos viñetas en lugar de números.
 
 **Tablas**
 
