@@ -123,7 +123,7 @@ Para un **uso correcto** de las ilustraciones:
    * El lector debe percibir en un **primer vistazo** cuál es **el valor** de la ilustración y su significado.
    * Tenemos que escoger un **tamaño adecuado**.
    * Las ilustraciones **no deben ocultar información**
-   * Mostrar **diversidad*.
+   * Mostrar **diversidad**.
    * El contenido **no debe parecer publicidad**, porque mucha gente la rechaza.
    * Las ilustraciones utilizadas deben ser **accesibles**, para lo que las describiremos en la etiqueta correspondiente del editor de textos.
    * Es importante emplear los **gráficos con moderación**.
