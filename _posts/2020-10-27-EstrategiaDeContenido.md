@@ -101,5 +101,27 @@ Las relaciones entre los elementos son ilustradas mediante líneas simples o **c
 
 ![conectores](/img/Conectores.png) 
 
+**Todo de una vez: conjuntos concurrentes**
 
+Un conjunto concurrente es usado en casos cuando una acción del usuario genera **resultados múltiples simultáneos**. Como las flechas, **tienen dirección**.
+
+**Separándolo: puntos de continuación**
+
+Para permitirnos separar nuestros diagramas en secciones fáciles de digerir, usamos **puntos de continuación** para unir los vacíos entre las páginas. Un punto de continuación único puede listar una o más fuentes o destinos según se necesite.
+
+**Elementos comunes: áreas y áreas iterativas**
+
+El elemento **área** es usado para identificar un **grupo de paginas que comparten uno o más atributos comunes**.  Los elementos de área sólo sirven para encerrar las paginas. Las áreas deben ser aplicadas con cuidado.
+
+![Area](/img/Area.png) 
+
+**Componentes re-utilizables: áreas de flujo y referencias**
+
+Algunos diseńos de interacción requieren que una secuencia de pasos aparezca repetidamente en diferentes contextos a través del diseńo. 
+
+Tal área se llama **un flujo**, y es representada en el diagrama mediante dos elementos: 
+  * **El área de flujo**: Encierra el flujo mismo
+  * **La referencia de flujo**: Sirve como marcador para el flujo en cada contexto en el cual se repite. 
+
+ ![Areadeflujo](/img/Area_de_flujo.png)
 
