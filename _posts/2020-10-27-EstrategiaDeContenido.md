@@ -146,10 +146,12 @@ Funciona de manera muy similar a la **rama condicional**, con una diferencia imp
 * **Un trapezoide**
 
 **Una decisión, muchos caminos: racimos**
+
 Algunas estructuras condicionales presentan **más de un camino** basado en ciertas condiciones. Asociamos estos caminos en la **estructura con un racimo**. El racimo puede aparecer corriente abajo desde una rama condicional o un selector condicional.
 * **Un círculo** 
 
 **Algunas restricciones pueden aplicar: áreas condicionales** 
+
 Cuando una o más condiciones aplican a un grupo de páginas, esas páginas son encerradas en un **área condicional**. 
 Las áreas condicionales se usan comúnmente en **situaciones que involucran permisos de acceso**, como cuando se requiere un login o conexión encriptada (SSL).
 * **Rectángulo de esquinas redondeadas** (línea cortada)
