@@ -47,3 +47,51 @@ La unidad básica de la experiencia del usuario en la Web.  |   Representa varia
 > El flujo de tareas identifica las rutas de alto nivel que un usuario podría tomar para proporcionar dirección a las personas que facilitan las pruebas. Se podrían crear flujos de tareas detallados para cada una de las rutas en las agrupaciones y luego se proporcionarán al equipo de desarrollo para crear las páginas necesarias para las pruebas.
 
 
+# Garrett, Jesse James, Un vocabulario visual para arquitectura de la información y diseño de la interacción
+
+**Consideraciones iniciales**
+
+Es un **conjunto de símbolos usado para describir algo**. Estas descripciones, o diagramas son **usados** por **cinco audiencias primarias**:
+  - Inversionistas y gerentes de proyecto
+  - Productores de Contenido
+  - Diseńadores visuales y de interfaces
+  - Tecnológos
+  - Arquitectos de información y diseńadores de interfaz
+
+El diagrama por lo tanto sirve como un documento hito para el desarrollo de documentos más detallados, específicos a las necesidades de cada audiencia.
+
+Otros **requerimientos clave** incluyen:
+  - **Compatible con pizarra blanca**: dibujados rápidamente a mano.
+  - **Independiente de herramienta**: no requiera de software especializado para construir diagramas.
+  - **Pequeńo y auto-contenido**: El total de los elementos debe ser mantenido al mínimo posible. 
+
+**Elementos simples: paginas, documentos y pilas de éstos**
+ 
+  * **La página**: Es la unidad básica, la cual, representamos con un simple rectángulo. **Una pagina** en tu diagrama puede representar **múltiples archivos HTML**.
+  * **La pila de páginas**: Un grupo de **paginas funcionalmente idénticas**. Representa un **grupo de documentos** que reciben **tratamiento de navegación idéntico** y pueden ser clasificadas como **una entidad única**.
+
+# Garrett, Jesse James, Un vocabulario visual para arquitectura de la información y diseño de la interacción
+
+**Consideraciones iniciales**
+
+Es un **conjunto de símbolos usado para describir algo**. Estas descripciones, o diagramas son **usados** por **cinco audiencias primarias**:
+  - Inversionistas y gerentes de proyecto
+  - Productores de Contenido
+  - Diseńadores visuales y de interfaces
+  - Tecnológos
+  - Arquitectos de información y diseńadores de interfaz
+
+El diagrama por lo tanto sirve como un documento hito para el desarrollo de documentos más detallados, específicos a las necesidades de cada audiencia.
+
+Otros **requerimientos clave** incluyen:
+  - **Compatible con pizarra blanca**: dibujados rápidamente a mano.
+  - **Independiente de herramienta**: no requiera de software especializado para construir diagramas.
+  - **Pequeńo y auto-contenido**: El total de los elementos debe ser mantenido al mínimo posible. 
+
+**Elementos simples: paginas, documentos y pilas de éstos**
+ 
+  * **La página**: Es la unidad básica, la cual, representamos con un simple rectángulo. **Una pagina** en tu diagrama puede representar **múltiples archivos HTML**.
+  * **La pila de páginas**: Un grupo de **paginas funcionalmente idénticas**. Representa un **grupo de documentos** que reciben **tratamiento de navegación idéntico** y pueden ser clasificadas como **una entidad única**.
+
+![página y pila de páginas](/img/Páginaypiladepáginas.png) 
+
