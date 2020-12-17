@@ -134,7 +134,7 @@ Las áreas de flujo también requieren el uso de dos tipos de **puntos de contin
 Cuando **una acción de un usuario** puede generar **un número de resultados**, el sistema debe tomar **una decisión** acerca de cuál resultado debe presentar, esto es un punto de decisión, y como en diagramas de flujo tradicionales, es 
 * **Un diamante**.
 
-![Puntodedecision](img/Punto_de_decision.png)
+![Puntodedecision](/img/Punto_de_decision.png)
 
 **Elección múltiple: ramas condicionales**
 Cuando un sistema debe seleccionar un camino entre un numero de opciones mutuamente exclusivas a ser presentadas al usuario, usamos una rama condicional 
@@ -154,6 +154,6 @@ Cuando una o más condiciones aplican a un grupo de páginas, esas páginas son 
 Las áreas condicionales se usan comúnmente en **situaciones que involucran permisos de acceso**, como cuando se requiere un login o conexión encriptada (SSL).
 * **Rectángulo de esquinas redondeadas** (línea cortada)
 
-![Areacondicional](img/Area_condicional.png)
+![Areacondicional](/img/Area_condicional.png)
 
 
