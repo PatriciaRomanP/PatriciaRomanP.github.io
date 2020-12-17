@@ -95,4 +95,10 @@ Otros **requerimientos clave** incluyen:
 
 ![página y pila de páginas](/img/Página_y_pila_de_páginas.png) 
 
+**Creando relaciones: conectores y flechas**
+
+Las relaciones entre los elementos son ilustradas mediante líneas simples o **conectores**. Cuando diagramamos **diseńo de interacción**, nuestras líneas también deben **indicar dirección** para indicar cómo el usuario se moverá a través del sistema por una tarea particular. Transformando nuestros conectores en **flechas** hará el truco de forma limpia. Usamos los términos **corriente abajo y corriente arriba** para referirnos a la posición de los elementos relativa a este movimiento hacia adelante.
+
+![conectores](/img/img/Conectores.png) 
+
 
