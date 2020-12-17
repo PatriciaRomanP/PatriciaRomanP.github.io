@@ -93,5 +93,6 @@ Otros **requerimientos clave** incluyen:
   * **La página**: Es la unidad básica, la cual, representamos con un simple rectángulo. **Una pagina** en tu diagrama puede representar **múltiples archivos HTML**.
   * **La pila de páginas**: Un grupo de **paginas funcionalmente idénticas**. Representa un **grupo de documentos** que reciben **tratamiento de navegación idéntico** y pueden ser clasificadas como **una entidad única**.
 
-![página y pila de páginas](/img/Páginaypiladepáginas.png) 
+![página y pila de páginas](/img/Página_y_pila_de_páginas.png) 
+
 
