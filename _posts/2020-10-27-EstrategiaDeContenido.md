@@ -125,3 +125,35 @@ Tal área se llama **un flujo**, y es representada en el diagrama mediante dos e
 
  ![Areadeflujo](/img/Area_de_flujo.png)
 
+Las áreas de flujo también requieren el uso de dos tipos de **puntos de continuación** especiales que están  ubicados fuera del área de flujo: 
+  * **Puntos de entrada** 
+  * **Puntos de salida** 
+
+**Haciendo elecciones: puntos de decisión**
+
+Cuando **una acción de un usuario** puede generar **un número de resultados**, el sistema debe tomar **una decisión** acerca de cuál resultado debe presentar, esto es un punto de decisión, y como en diagramas de flujo tradicionales, es 
+* **Un diamante**.
+
+![Puntodedecision](img/Punto_de_decision.png)
+
+**Elección múltiple: ramas condicionales**
+Cuando un sistema debe seleccionar un camino entre un numero de opciones mutuamente exclusivas a ser presentadas al usuario, usamos una rama condicional 
+* **Triángulo**
+
+**Elige uno o más: selectores condicionales**
+
+Funciona de manera muy similar a la **rama condicional**, con una diferencia importante: con el selector, **los varios caminos corriente abajo no son mutuamente exclusivos**, cualquier número de caminos que satisfagan las condiciones pueden ser presentados al usuario.
+* **Un trapezoide**
+
+**Una decisión, muchos caminos: racimos**
+Algunas estructuras condicionales presentan **más de un camino** basado en ciertas condiciones. Asociamos estos caminos en la **estructura con un racimo**. El racimo puede aparecer corriente abajo desde una rama condicional o un selector condicional.
+* **Un círculo** 
+
+**Algunas restricciones pueden aplicar: áreas condicionales** 
+Cuando una o más condiciones aplican a un grupo de páginas, esas páginas son encerradas en un **área condicional**. 
+Las áreas condicionales se usan comúnmente en **situaciones que involucran permisos de acceso**, como cuando se requiere un login o conexión encriptada (SSL).
+* **Rectángulo de esquinas redondeadas** (línea cortada)
+
+![Areacondicional](img/Area_condicional.png)
+
+
