@@ -137,6 +137,7 @@ Cuando **una acción de un usuario** puede generar **un número de resultados**,
 ![Puntodedecision](/img/Punto_de_decision.png)
 
 **Elección múltiple: ramas condicionales**
+
 Cuando un sistema debe seleccionar un camino entre un numero de opciones mutuamente exclusivas a ser presentadas al usuario, usamos una rama condicional 
 * **Triángulo**
 
